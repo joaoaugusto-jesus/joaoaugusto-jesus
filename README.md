@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <br> I'm a aspiring Full Stack Developer<br> <br>Just finished 4geeks bootcamp<br>
-<br>I'am currently learning and reinforcing my learnings<br>
+<br>I'am currently reinforcing my learnings<br>
 <br>Passionate about design, multimedia and gaming<br>
 <br>Fun fact:I Love to play guitar/bass, to write songs, compose music<br>
 
