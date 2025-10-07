@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <br> Full Stack Developer<br> 
-<br>I'am currently reinforcing my learnings<br>
+<br> In love with react<br>
 <br>Passionate about design, multimedia and gaming<br>
 <br>Fun fact:I Love to play guitar/bass, to write songs, compose music<br>
 
