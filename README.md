@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br> Full Stack Developer<br> <br>Just finished 4geeks bootcamp<br>
+<br> Full Stack Developer<br> 
 <br>I'am currently reinforcing my learnings<br>
 <br>Passionate about design, multimedia and gaming<br>
 <br>Fun fact:I Love to play guitar/bass, to write songs, compose music<br>
